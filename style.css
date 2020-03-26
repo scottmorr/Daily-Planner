@@ -1,0 +1,14 @@
+.row {
+        border: 1px solid black;
+        display: flex;
+        flex-direction: row;
+
+}
+
+#column1 {
+        border: 1px solid red;
+}
+
+#columnn2 {
+        border: 1px  solid green;
+}
