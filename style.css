@@ -5,10 +5,32 @@
 
 }
 
-#column1 {
-        border: 1px solid red;
+.jumbotron{
+        text-align: center;
 }
 
-#columnn2 {
-        border: 1px  solid green;
+.time-block {
+        color: red;
+        text-align: center;
+        margin-top: 25px;
+        margin: auto;      
+}
+
+.time {
+        margin-top: 15px;
+}
+
+.address-card {
+        size:80px;
+}
+
+.footer {
+        text-align: center;
+        color: blue;
+        padding: 35px;
+        background-color: skyblue;
+}
+
+#lastcontainer {
+    margin-bottom: 35px; 
 }
