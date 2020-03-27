@@ -11,6 +11,10 @@
         color: lightblue;
 }
 
+body {
+        background-color: lightcyan;
+}
+
 .time-block {
         color: red;
         text-align: center;
@@ -20,6 +24,24 @@
 
 .time {
         margin-top: 25px;
+
+}
+
+.hour {
+        background-color: oldlace;
+} 
+
+.description {
+        background-color: oldlace;
+}
+
+
+.btn {
+        background-color: lightsalmon;
+}
+
+.saveBtn{
+        border: 2px solid black;
 }
 
 .address-card {
@@ -31,7 +53,7 @@
         color:lightblue;
         padding: 35px;
         background-color: rgb(111, 128, 136);
-        font-style: ;
+        font-style: 
 }
 
 #lastcontainer {
