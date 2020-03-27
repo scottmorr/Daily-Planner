@@ -7,6 +7,8 @@
 
 .jumbotron{
         text-align: center;
+        background-color: rgb(111, 128, 136);
+        color: lightblue;
 }
 
 .time-block {
@@ -17,7 +19,7 @@
 }
 
 .time {
-        margin-top: 15px;
+        margin-top: 25px;
 }
 
 .address-card {
@@ -26,11 +28,21 @@
 
 .footer {
         text-align: center;
-        color: blue;
+        color:lightblue;
         padding: 35px;
-        background-color: skyblue;
+        background-color: rgb(111, 128, 136);
+        font-style: ;
 }
 
 #lastcontainer {
     margin-bottom: 35px; 
+}
+
+::placeholder {
+        text-align: center;
+        padding-top: 25px;
+}
+
+.row {
+        height: 75px;
 }
