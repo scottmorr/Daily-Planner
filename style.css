@@ -9,6 +9,8 @@
         text-align: center;
         background-color: rgb(111, 128, 136);
         color: lightblue;
+
+
 }
 
 body {
@@ -38,11 +40,16 @@ body {
 
 .btn {
         background-color: lightsalmon;
+        box-shadow: 0 12px 16px 0;
+        
 }
+
 
 .saveBtn{
         border: 2px solid black;
+        
 }
+
 
 .address-card {
         size:80px;
@@ -63,8 +70,16 @@ body {
 ::placeholder {
         text-align: center;
         padding-top: 25px;
+        cursor: ;
 }
+
+input {
+        text-align: center
+      }
 
 .row {
         height: 75px;
+}
+#hr-5{
+
 }
