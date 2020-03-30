@@ -9,8 +9,6 @@
         text-align: center;
         background-color: rgb(111, 128, 136);
         color: lightblue;
-
-
 }
 
 body {
@@ -26,12 +24,10 @@ body {
 
 .time {
         margin-top: 25px;
-
 }
-
-.hour {
+/*.hour {
         background-color: oldlace;
-} 
+}*/ 
 
 .description {
         background-color: oldlace;
@@ -40,14 +36,12 @@ body {
 
 .btn {
         background-color: lightsalmon;
-        box-shadow: 0 12px 16px 0;
-        
+        box-shadow: 0 12px 16px 0;        
 }
 
 
 .saveBtn{
-        border: 2px solid black;
-        
+        border: 2px solid black;        
 }
 
 
@@ -60,17 +54,15 @@ body {
         color:lightblue;
         padding: 35px;
         background-color: rgb(111, 128, 136);
-        font-style: 
 }
 
-#lastcontainer {
+#hour-8 {
     margin-bottom: 35px; 
 }
 
 ::placeholder {
         text-align: center;
         padding-top: 25px;
-        cursor: ;
 }
 
 input {
@@ -80,6 +72,12 @@ input {
 .row {
         height: 75px;
 }
-#hr-5{
-
+.past {
+        background-color: magenta;
+}
+.present {
+        background-color: mediumslateblue;
+}
+.future {
+        background-color: limegreen;
 }
