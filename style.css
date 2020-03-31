@@ -72,12 +72,12 @@ input {
 .row {
         height: 75px;
 }
-.past {
+.present {
         background-color: magenta;
 }
-.present {
+.future {
         background-color: mediumslateblue;
 }
-.future {
+.past {
         background-color: limegreen;
 }
